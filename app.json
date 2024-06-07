@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5167d0ef-ac46-4212-a349-1083134d514b"
+      }
+    },
+    "owner": "henryq"
   }
 }
